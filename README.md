@@ -6,6 +6,10 @@ This application is a Tinder for pet adoption where a user can swipe through pet
 
 This was our first group project where I was on the backend team working with JavaScript, JQuery, and the PetFinder API. 
 
+## GIF of Functionality
+
+![Alt Text](assets/images/petFinder.gif)
+
 ## Screenshots
 
 ### The Home Page
