@@ -154,3 +154,7 @@ p#text{
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+#map {
+    height: 100%;
+  }
