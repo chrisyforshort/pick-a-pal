@@ -2,9 +2,9 @@
 
 ## Summary
 
-This application is a Tinder for pet adoption where a user can swipe through pets and decide which one they would want. Just making pet adoptions a little more fun than staring at a super long list of dogs. This app was made with HTML, CSS, Materialize, PetFinder API, JQuery, and Javascript.
+This application is like a Tinder for pet adoption where users can swipe through pets and decide which one they would want. This application utilizes PetFinder API to pull the animal’s information and was made with HTML, CSS, Materialize, JQuery, and JavaScript. 
 
-This was our first group project where I was on the backend team working with JavaScript, JQuery, and the PetFinder API. 
+This was my first group project ever. I was on the backend team working with JavaScript, JQuery, and the PetFinder API. 
 
 ## Screenshots
 
